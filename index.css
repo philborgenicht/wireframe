@@ -1,0 +1,36 @@
+body{
+  font-family: 'Quicksand', sans-serif;
+  background-color: #272b44;
+  color: white;
+
+}
+
+.nav-wrapper{
+  color: #3a3f50;
+
+}
+
+.page-footer{
+  background-color: #3a3f50;
+  border-radius: 15px 15px 15px 15px;
+}
+
+p{
+  background-color: #6d8096;
+border-radius: 15px 15px 15px 15px;
+}
+
+button{
+  background-color: #29a8cd;
+  color: white;
+  border-radius: 15px 15px 15px 15px;
+}
+
+.card{
+  border-radius: 30px;
+  width: 30%;
+}
+
+img{
+  width: 500px;
+}

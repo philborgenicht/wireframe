@@ -1,0 +1,50 @@
+.login{
+
+}
+body{
+  background-color: #272b44;
+  color: #bccedb;
+}
+.loginShiz{
+  border: 2px solid #3a3f50;
+  border-radius: 15px 15px 15px 15px;
+  margin-top: 50%;
+  background-color: #3a3f50;
+}
+.fieldset{
+  border: 2px solid #3a3f50;
+  border-radius: 15px 15px 15px 15px;
+}
+.li{
+  float:right;
+}
+.navB{
+  background-color: #3a3f50 !important;
+}
+#userName{
+  background-color: #6d8096;
+}
+#userPassword{
+  background-color: #6d8096;
+}
+#email{
+  background-color: #6d8096;
+}
+#checky{
+  background-color: red;
+}
+.rm{
+  float:right;
+}
+.right{
+  float: right;
+  color: #bccedb;
+  background-color: #29a8cd;
+  border: none;
+}
+.left{
+  float: left;
+  color: #bccedb;
+  background-color: #29a8cd;
+  border: none;
+}
